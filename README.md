@@ -1,2 +1,3 @@
 # Hello-world
-smth new
+
+I want to learn Python 
